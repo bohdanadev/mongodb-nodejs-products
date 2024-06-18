@@ -46,11 +46,18 @@ npm start
 ```  
 
 ## API Endpoints
-POST **/signup**: Register a new user.
-POST **/auth**: Sign in an existing user.
-POST **/logout**: Logout the current user.
-GET **/products**: Get a list of all products.
-POST **/products/add**: Add a new product.
-GET **/products/:id**: Get detailed information about a specific product.
-PUT **/products/:id/edit**: Update an existing product.
-DELETE **/products/:id**: Delete a product.
+POST **/signup**: Register a new user.  
+
+POST **/auth**: Sign in an existing user.  
+
+POST **/logout**: Logout the current user.  
+
+GET **/products**: Get a list of all products.  
+
+POST **/products/add**: Add a new product.  
+
+GET **/products/:id**: Get detailed information about a specific product.  
+
+PUT **/products/:id/edit**: Update an existing product.  
+
+DELETE **/products/:id**: Delete a product.  
